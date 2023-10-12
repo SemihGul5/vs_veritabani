@@ -1,0 +1,9 @@
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\bin\Debug\vt-ekle-sil-güncelle-resimli.exe.config
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\bin\Debug\vt-ekle-sil-güncelle-resimli.exe
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\bin\Debug\vt-ekle-sil-güncelle-resimli.pdb
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\obj\Debug\vt-ekle-sil-güncelle-resimli.csprojResolveAssemblyReference.cache
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\obj\Debug\vt_ekle_sil_güncelle_resimli.Form1.resources
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\obj\Debug\vt_ekle_sil_güncelle_resimli.Properties.Resources.resources
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\obj\Debug\vt-ekle-sil-güncelle-resimli.csproj.GenerateResource.Cache
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\obj\Debug\vt-ekle-sil-güncelle-resimli.exe
+C:\PROJE\vt-ekle-sil-güncelle-resimli\vt-ekle-sil-güncelle-resimli\obj\Debug\vt-ekle-sil-güncelle-resimli.pdb

@@ -1,0 +1,9 @@
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+C:\PROJE\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
